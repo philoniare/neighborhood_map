@@ -1,0 +1,23 @@
+.main {
+    left: -300px;
+}
+
+#map {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: -1;
+    width: 100%;
+}
+
+.mobile-nav {
+    position: fixed;
+    left: 0px;
+    background-color: #2b303b;
+    width: 40px;
+    border-radius: 5%;
+    text-align: center;
+    font-size: 40px;
+}
